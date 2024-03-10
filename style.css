@@ -36,3 +36,30 @@ div h1{
     font-weight: 600;
     margin-bottom: 4px;
 }
+
+div strong {
+    color: #C4F824;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+div p {
+    margin-block: 24px;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+div a + a {
+    margin-top: 16px;
+}
+
+div a {
+    display: block;
+    text-decoration: none;
+    background-color: #333333;
+    padding: 12px;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+}
